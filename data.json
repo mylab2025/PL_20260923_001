@@ -1,10 +1,10 @@
 {
   "metadata": {
     "PurchaseListID": "PL_20260923_001",
-    "CreatedOn": "2026-09-23T11:23:34.4286136Z",
+    "CreatedOn": "2026-09-23T11:23:40.0563203Z",
     "EditedBy": "k64121947",
     "TotalEstimation": 495.0,
-    "Status": "Draft",
+    "Status": "Ready",
     "PlannedDate": "2026-09-23T00:00:00",
     "Remarks": "Order for 6ch electronic volume control IC for AURA 5.1 amplifier project.",
     "Deducted": true
