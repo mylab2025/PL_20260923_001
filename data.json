@@ -10,7 +10,18 @@
     "PlannedDate": "2026-09-23T00:00:00",
     "Remarks": "Order for 6ch electronic volume control IC for AURA 5.1 amplifier project.\r\n----OK for me pls proceed with order-------",
     "Deducted": true,
-    "Approval": "Approved"
+    "Approval": "Approved",
+    "CompletionLog": [
+      {
+        "MID": "MID20352",
+        "Done": true
+      },
+      {
+        "MID": "MID20351",
+        "Done": true
+      }
+    ],
+    "Completed": true
   },
   "materials": [
     {
